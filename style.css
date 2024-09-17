@@ -32,3 +32,6 @@ h3{
     font-size: 20px;
     font-family: Montserrat;
 }
+.img_comida:hover{
+    transform: scale(1.1);
+}
